@@ -4,7 +4,7 @@
  
   * Download Android studio  this link :  https://developer.android.com/studio?hl=pt-br
   you when install vscode 
-    Make a txt and <i> SAVA AS</i>  on the past the named   
+    Put on your terminal <i> .bash</i>  on the past the named   
   * Download visual studio code :  https://code.visualstudio.com
    
   * Download SDK flutter : https://flutter.dev/docs/get-started/install
