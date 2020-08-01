@@ -1,16 +1,26 @@
-# flutter_crud
 
-A new Flutter project.
 
-## Getting Started
+## Getting Started 
+ 
+  * Download Android studio  this link :  https://developer.android.com/studio?hl=pt-br
+  you when install vscode 
+    Make a txt and <i> SAVA AS</i>  on the past the named   
+  * Download visual studio code :  https://code.visualstudio.com
+   
+  * Download SDK flutter : https://flutter.dev/docs/get-started/install
+   
+   
+  * Commands for installtion : 
+  <li> cd ~/development unzip ~/Downloads/flutter_macos_1.17.5-stable.zip   </li>
+  <li> git clone https://github.com/flutter/flutter.git -b stable --depth 1 </li>
+  <li> export PATH="$PATH:`pwd`/flutter/bin" </li>
+  <li> flutter precache </li>
 
-This project is a starting point for a Flutter application.
+  
 
-A few resources to get you started if this is your first Flutter project:
+<li> For use my repository :</li> 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+git clone https://github.com/lucasmullerlange/flutter_crud 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
