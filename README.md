@@ -10,7 +10,7 @@
   * Download SDK flutter : https://flutter.dev/docs/get-started/install
    
    
-  * Commands for installtion : 
+  <p style="color:red;"> Commands for installtion</p> 
   <li> cd ~/development unzip ~/Downloads/flutter_macos_1.17.5-stable.zip   </li>
   <li> git clone https://github.com/flutter/flutter.git -b stable --depth 1 </li>
   <li> export PATH="$PATH:`pwd`/flutter/bin" </li>
