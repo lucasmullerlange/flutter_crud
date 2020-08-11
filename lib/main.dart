@@ -7,6 +7,9 @@ import 'models/views/user_list.dart';
 
 void main() {
   runApp(MyApp());
+  
+  
+  
 }
 
 class MyApp extends StatelessWidget {
@@ -24,6 +27,8 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.cyan,
           visualDensity: VisualDensity.adaptivePlatformDensity,
+           debugShowCheckedModeBanner: False, 
+            
         ),
         routes: {
           AppRoutes.HOME: (_) => UserList(),
